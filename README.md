@@ -1,3 +1,3 @@
 # Machine-Learning-Practice
 
-A repository of machine learning algorithms from scratch using python.
+A repository of implementation of machine learning algorithms from scratch using python.
